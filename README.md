@@ -14,5 +14,5 @@ A fun, lightweight open-source messenger system for Android and Wear OS that all
 ## 🍻 License
 This project is licensed under the **MIT License**, with an unofficial gentleman's agreement under the **Beerware License**: If we meet some day, and you think this stuff is worth it, you can buy me a beer in return!
 
-## AI
+## ✨ AI
 Of course, I actively used AI in the development
