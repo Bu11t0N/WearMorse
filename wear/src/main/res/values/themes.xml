@@ -1,0 +1,4 @@
+<resources>
+    <style name="Theme.WearMorseMessenger" parent="@android:style/Theme.DeviceDefault">
+    </style>
+</resources>

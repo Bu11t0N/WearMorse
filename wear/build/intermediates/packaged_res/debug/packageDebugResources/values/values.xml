@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#6200EE</color>
+    <string name="app_name">Wear Morse Watch</string>
+    <string name="last_message_empty">—</string>
+    <string name="last_message_label">Последнее сообщение</string>
+    <string name="mic_status_label">Статус микрофона</string>
+    <string name="mic_status_off">Выключен</string>
+    <string name="mic_status_on">Включен</string>
+    <string name="mic_turn_off">ВЫКЛ МИКРОФОН</string>
+    <string name="mic_turn_on">ВКЛ МИКРОФОН</string>
+    <string name="permission_required">Нужно разрешение на микрофон</string>
+    <string name="spy_service_text">Запись и передача аудио на телефон</string>
+    <string name="spy_service_title">Скрытый режим</string>
+    <style name="Theme.WearMorseMessenger" parent="@android:style/Theme.DeviceDefault">
+    </style>
+</resources>

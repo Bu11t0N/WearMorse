@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Wear Morse Watch</string>
+    <string name="spy_service_title">Covert Mode</string>
+    <string name="spy_service_text">Recording and transmitting audio to phone</string>
+    <string name="mic_status_label">Microphone Status</string>
+    <string name="mic_status_on">Active</string>
+    <string name="mic_status_off">Disabled</string>
+    <string name="mic_turn_on">TURN MIC ON</string>
+    <string name="mic_turn_off">TURN MIC OFF</string>
+    <string name="last_message_label">Last Message</string>
+    <string name="last_message_empty">—</string>
+    <string name="permission_required">Microphone permission is required</string>
+</resources>

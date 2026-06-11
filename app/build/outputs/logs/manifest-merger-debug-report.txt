@@ -1,0 +1,352 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:3:1-40:12
+INJECTED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:3:1-40:12
+INJECTED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:3:1-40:12
+INJECTED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:3:1-40:12
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\3aee5d621d7be60f3694ddfb057d4362\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\magam\.gradle\caches\9.4.1\transforms\af816ec75fd1311ab4ff8209d5c18725\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\6b4848a9add5108521602fbb61b96a27\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\68d90824fad76bdf9a091d0a08e3f64a\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-wearable:18.1.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\6529e563a6b4e9b48c0ee5f54c2cbbe8\transformed\play-services-wearable-18.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\e4169b5839abe20aad792464e08c54db\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\0c8d8e84ee422560d0ae4ba8fde69b1b\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\42299fc304f506474a819fddb3460348\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\dbf266e28c44b3ad7a057650c2b9b5ec\transformed\play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\616d48cc5fc8bbb7c6a3e3a5109e1875\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\384b41e7b0b8f46b138fade3404eaec3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\aa4c08424007ebb039691061623d32d5\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\0839ff3560996676b08f33ecb1432ae8\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\0d8519dcc7361269cd80e2e383b32d5b\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\e45dca385906fbdc27b20d7f85d42d6a\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\cb00e42c1320f0ddcf357247a6495039\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\70a95ff3474c48ad4a62aca961d88c09\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\ed4b696e0997e1e220a91b4b12537182\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\a6a99f4edd2f6582f575e04cccc1ba0c\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\3f144a5b9f2aa0d071ed8231a964a27b\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\d617b0826fcfa9024e40f784498d866b\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\04a40cafdecb3fae9012f41936b2e8eb\transformed\play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\magam\.gradle\caches\9.4.1\transforms\c3bf34164c48fce8202abc2cdd7d7144\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\bdec823e5b2560f8dac3fd36dd87dfdd\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\a034b8bab3aacb7f6d63dc3b55f47520\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\f1e27a842457ba1def82039653d8e70c\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\43e4ca468106e11fc7c078c9868e652a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\306869275ef563f719fe0a585dd1193a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\ffea1eb51f5ee040e712a1b38e72306c\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\ff06210069e10858c1dad773ab301904\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\b1ac77f53312201271c06bec1428b67e\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\eab77b4231dbf10923d42548ccb97a3f\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\4ffbf6d1512bb89c6ddfd7681379ba29\transformed\core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\c04468aa0a2c1a669dfa0b1cb8e22904\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\ba0fe7a9ae1937560b4b4b8343bf8be0\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\c397a6cb973532818609b8188fd5f9b3\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\8f2faa60c09a0950a7303b2a6fb37b7f\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\dba9b170c083013b1d4a5708d5bc319c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\8797b4052906e0395e5a1a8b54ccb10f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\7997443c088c174dfb24d728590e2df2\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\d80db3980d9408b9326623fce89bdebe\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\268d02714cea8b4470a429a430cdfb1e\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\89cead998104ac740c81b5f22cb50c98\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\47c53a301bea3699c67c2891730c8b10\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:3:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:8:5-77
+	android:name
+		ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:8:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK
+ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:9:5-92
+	android:name
+		ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:9:22-89
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:10:5-77
+	android:name
+		ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:10:22-74
+application
+ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:12:5-39:19
+INJECTED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:12:5-39:19
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\3aee5d621d7be60f3694ddfb057d4362\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\3aee5d621d7be60f3694ddfb057d4362\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\magam\.gradle\caches\9.4.1\transforms\af816ec75fd1311ab4ff8209d5c18725\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\magam\.gradle\caches\9.4.1\transforms\af816ec75fd1311ab4ff8209d5c18725\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-wearable:18.1.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\6529e563a6b4e9b48c0ee5f54c2cbbe8\transformed\play-services-wearable-18.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:18.1.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\6529e563a6b4e9b48c0ee5f54c2cbbe8\transformed\play-services-wearable-18.1.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\0c8d8e84ee422560d0ae4ba8fde69b1b\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\0c8d8e84ee422560d0ae4ba8fde69b1b\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\dbf266e28c44b3ad7a057650c2b9b5ec\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\dbf266e28c44b3ad7a057650c2b9b5ec\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\e45dca385906fbdc27b20d7f85d42d6a\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\e45dca385906fbdc27b20d7f85d42d6a\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\d617b0826fcfa9024e40f784498d866b\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\d617b0826fcfa9024e40f784498d866b\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\04a40cafdecb3fae9012f41936b2e8eb\transformed\play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\04a40cafdecb3fae9012f41936b2e8eb\transformed\play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.12.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\eab77b4231dbf10923d42548ccb97a3f\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\eab77b4231dbf10923d42548ccb97a3f\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\dba9b170c083013b1d4a5708d5bc319c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\dba9b170c083013b1d4a5708d5bc319c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\8797b4052906e0395e5a1a8b54ccb10f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\8797b4052906e0395e5a1a8b54ccb10f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\eab77b4231dbf10923d42548ccb97a3f\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:17:9-56
+activity#com.wearmorse.phone.MainActivity
+ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:20:9-27:20
+	android:exported
+		ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:21:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:25:27-74
+service#com.wearmorse.phone.AudioReceiverService
+ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:30:9-33:61
+	android:exported
+		ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:32:13-37
+	android:foregroundServiceType
+		ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:33:13-58
+	android:name
+		ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:31:13-49
+meta-data#com.google.android.wearable.standalone
+ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:36:9-38:37
+	android:value
+		ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:38:13-34
+	android:name
+		ADDED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml:37:13-66
+uses-sdk
+INJECTED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\3aee5d621d7be60f3694ddfb057d4362\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\3aee5d621d7be60f3694ddfb057d4362\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\magam\.gradle\caches\9.4.1\transforms\af816ec75fd1311ab4ff8209d5c18725\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\magam\.gradle\caches\9.4.1\transforms\af816ec75fd1311ab4ff8209d5c18725\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\6b4848a9add5108521602fbb61b96a27\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\6b4848a9add5108521602fbb61b96a27\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\68d90824fad76bdf9a091d0a08e3f64a\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\68d90824fad76bdf9a091d0a08e3f64a\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:18.1.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\6529e563a6b4e9b48c0ee5f54c2cbbe8\transformed\play-services-wearable-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:18.1.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\6529e563a6b4e9b48c0ee5f54c2cbbe8\transformed\play-services-wearable-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\e4169b5839abe20aad792464e08c54db\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\e4169b5839abe20aad792464e08c54db\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\0c8d8e84ee422560d0ae4ba8fde69b1b\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\0c8d8e84ee422560d0ae4ba8fde69b1b\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\42299fc304f506474a819fddb3460348\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\42299fc304f506474a819fddb3460348\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\dbf266e28c44b3ad7a057650c2b9b5ec\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\dbf266e28c44b3ad7a057650c2b9b5ec\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\616d48cc5fc8bbb7c6a3e3a5109e1875\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\616d48cc5fc8bbb7c6a3e3a5109e1875\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\384b41e7b0b8f46b138fade3404eaec3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\384b41e7b0b8f46b138fade3404eaec3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\aa4c08424007ebb039691061623d32d5\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\aa4c08424007ebb039691061623d32d5\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\0839ff3560996676b08f33ecb1432ae8\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\0839ff3560996676b08f33ecb1432ae8\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\0d8519dcc7361269cd80e2e383b32d5b\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\0d8519dcc7361269cd80e2e383b32d5b\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\e45dca385906fbdc27b20d7f85d42d6a\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\e45dca385906fbdc27b20d7f85d42d6a\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\cb00e42c1320f0ddcf357247a6495039\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\cb00e42c1320f0ddcf357247a6495039\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\70a95ff3474c48ad4a62aca961d88c09\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\70a95ff3474c48ad4a62aca961d88c09\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\ed4b696e0997e1e220a91b4b12537182\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\ed4b696e0997e1e220a91b4b12537182\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\a6a99f4edd2f6582f575e04cccc1ba0c\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\a6a99f4edd2f6582f575e04cccc1ba0c\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\3f144a5b9f2aa0d071ed8231a964a27b\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\3f144a5b9f2aa0d071ed8231a964a27b\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\d617b0826fcfa9024e40f784498d866b\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\d617b0826fcfa9024e40f784498d866b\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\04a40cafdecb3fae9012f41936b2e8eb\transformed\play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\04a40cafdecb3fae9012f41936b2e8eb\transformed\play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\magam\.gradle\caches\9.4.1\transforms\c3bf34164c48fce8202abc2cdd7d7144\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\magam\.gradle\caches\9.4.1\transforms\c3bf34164c48fce8202abc2cdd7d7144\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\bdec823e5b2560f8dac3fd36dd87dfdd\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\bdec823e5b2560f8dac3fd36dd87dfdd\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\a034b8bab3aacb7f6d63dc3b55f47520\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\a034b8bab3aacb7f6d63dc3b55f47520\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\f1e27a842457ba1def82039653d8e70c\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\f1e27a842457ba1def82039653d8e70c\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\43e4ca468106e11fc7c078c9868e652a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\43e4ca468106e11fc7c078c9868e652a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\306869275ef563f719fe0a585dd1193a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\306869275ef563f719fe0a585dd1193a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\ffea1eb51f5ee040e712a1b38e72306c\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\ffea1eb51f5ee040e712a1b38e72306c\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\ff06210069e10858c1dad773ab301904\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\ff06210069e10858c1dad773ab301904\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\b1ac77f53312201271c06bec1428b67e\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\b1ac77f53312201271c06bec1428b67e\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\eab77b4231dbf10923d42548ccb97a3f\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\eab77b4231dbf10923d42548ccb97a3f\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\4ffbf6d1512bb89c6ddfd7681379ba29\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\4ffbf6d1512bb89c6ddfd7681379ba29\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\c04468aa0a2c1a669dfa0b1cb8e22904\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\c04468aa0a2c1a669dfa0b1cb8e22904\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\ba0fe7a9ae1937560b4b4b8343bf8be0\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\ba0fe7a9ae1937560b4b4b8343bf8be0\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\c397a6cb973532818609b8188fd5f9b3\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\c397a6cb973532818609b8188fd5f9b3\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\8f2faa60c09a0950a7303b2a6fb37b7f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\8f2faa60c09a0950a7303b2a6fb37b7f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\dba9b170c083013b1d4a5708d5bc319c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\dba9b170c083013b1d4a5708d5bc319c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\8797b4052906e0395e5a1a8b54ccb10f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\8797b4052906e0395e5a1a8b54ccb10f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\7997443c088c174dfb24d728590e2df2\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\7997443c088c174dfb24d728590e2df2\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\d80db3980d9408b9326623fce89bdebe\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\d80db3980d9408b9326623fce89bdebe\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\268d02714cea8b4470a429a430cdfb1e\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\268d02714cea8b4470a429a430cdfb1e\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\89cead998104ac740c81b5f22cb50c98\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\89cead998104ac740c81b5f22cb50c98\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\47c53a301bea3699c67c2891730c8b10\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\47c53a301bea3699c67c2891730c8b10\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\magam\wear-morse-messenger\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\0c8d8e84ee422560d0ae4ba8fde69b1b\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\e45dca385906fbdc27b20d7f85d42d6a\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\e45dca385906fbdc27b20d7f85d42d6a\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\8797b4052906e0395e5a1a8b54ccb10f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\8797b4052906e0395e5a1a8b54ccb10f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\0c8d8e84ee422560d0ae4ba8fde69b1b\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\0c8d8e84ee422560d0ae4ba8fde69b1b\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\0c8d8e84ee422560d0ae4ba8fde69b1b\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\0c8d8e84ee422560d0ae4ba8fde69b1b\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\0c8d8e84ee422560d0ae4ba8fde69b1b\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\0c8d8e84ee422560d0ae4ba8fde69b1b\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\0c8d8e84ee422560d0ae4ba8fde69b1b\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\dbf266e28c44b3ad7a057650c2b9b5ec\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\dbf266e28c44b3ad7a057650c2b9b5ec\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\dbf266e28c44b3ad7a057650c2b9b5ec\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\dbf266e28c44b3ad7a057650c2b9b5ec\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\e45dca385906fbdc27b20d7f85d42d6a\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\e45dca385906fbdc27b20d7f85d42d6a\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\magam\.gradle\caches\9.4.1\transforms\e45dca385906fbdc27b20d7f85d42d6a\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\04a40cafdecb3fae9012f41936b2e8eb\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\04a40cafdecb3fae9012f41936b2e8eb\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\04a40cafdecb3fae9012f41936b2e8eb\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\eab77b4231dbf10923d42548ccb97a3f\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\eab77b4231dbf10923d42548ccb97a3f\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\eab77b4231dbf10923d42548ccb97a3f\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.wearmorse.phone.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\eab77b4231dbf10923d42548ccb97a3f\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\eab77b4231dbf10923d42548ccb97a3f\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\eab77b4231dbf10923d42548ccb97a3f\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\eab77b4231dbf10923d42548ccb97a3f\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\eab77b4231dbf10923d42548ccb97a3f\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.wearmorse.phone.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\eab77b4231dbf10923d42548ccb97a3f\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\eab77b4231dbf10923d42548ccb97a3f\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\magam\.gradle\caches\9.4.1\transforms\1906527ac51933d793d99a6b9b95dcc1\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92

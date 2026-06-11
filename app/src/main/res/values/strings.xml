@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Wear Morse Phone</string>
+    <string name="message_hint">Text for watch (Morse)</string>
+    <string name="send_button">Send</string>
+    <string name="status_idle">Status: Idle</string>
+    <string name="status_sending">Sending to watch…</string>
+    <string name="status_sent">Sent to watch successfully</string>
+    <string name="status_no_watch">Error: Watch not found</string>
+    <string name="status_error">Failed to send</string>
+    <string name="audio_service_title">Receiving audio from watch</string>
+    <string name="audio_service_text">Listening to watch microphone in real-time</string>
+    <string name="audio_receiving_on">Audio reception: ENABLED</string>
+    <string name="audio_receiving_off">Audio reception: DISABLED</string>
+    <string name="stop_audio_button">STOP RECEIVING AUDIO</string>
+    <string name="audio_stopped_toast">Audio reception stopped</string>
+</resources>

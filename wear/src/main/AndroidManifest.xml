@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- AndroidManifest.xml модуля :wear (часы Wear OS) -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Микрофон, вибрация, фоновая запись и пробуждение -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MICROPHONE" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+
+    <!-- Объявляем, что это приложение для часов -->
+    <uses-feature android:name="android.hardware.type.watch" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.WearMorseMessenger">
+
+        <!-- Экран управления: статус микрофона, последнее сообщение, кнопка ВКЛ/ВЫКЛ -->
+        <activity
+            android:name=".WearMainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.WearMorseMessenger">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Фоновый сервис: запись микрофона, стрим на телефон, приём Морзе -->
+        <service
+            android:name=".SecretSpyService"
+            android:exported="false"
+            android:foregroundServiceType="microphone" />
+
+        <meta-data
+            android:name="com.google.android.wearable.standalone"
+            android:value="false" />
+    </application>
+</manifest>
